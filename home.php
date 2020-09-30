@@ -1,6 +1,6 @@
             <section id="home" class="home bg-black fix">
                 <div class="overlay"></div>
-                <div class="container">
+                <div class="container my-3">
                     <div class="row">
                         <div class="main_features fix roomy-30">
                             <div class="col-md-12">
@@ -70,7 +70,7 @@
 
             <!--product section-->
             <section id="product" class="product">
-                <div class="container">
+                <div class="container my-3">
                     <div class="main_product roomy-80">
 
                         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -84,7 +84,7 @@
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner" role="listbox">
                                 <div class="item active">
-                                    <div class="container">
+                                    <div class="container my-3">
                                         <div class="row">
                                             <div class="col-sm-3">
                                                 <div class="port_item xs-m-top-30">
@@ -148,7 +148,7 @@
                                 </div>
 
                                 <div class="item">
-                                    <div class="container">
+                                    <div class="container my-3">
                                         <div class="row">
                                             <div class="col-sm-3">
                                                 <div class="port_item xs-m-top-30">
